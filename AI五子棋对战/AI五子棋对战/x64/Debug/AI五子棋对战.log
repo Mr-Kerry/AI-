@@ -1,0 +1,21 @@
+﻿  Chess.cpp
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(72,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(72,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(73,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(73,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(86,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(87,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(88,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(89,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(90,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(97,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(108,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(110,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(122,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(123,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(134,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(135,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(136,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(152,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\CFiles\AI五子棋\AI五子棋对战\AI五子棋对战\Chess.cpp(153,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  AI五子棋对战.vcxproj -> F:\CFiles\AI五子棋\AI五子棋对战\x64\Debug\AI五子棋对战.exe
